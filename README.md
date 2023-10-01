@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 I am a graduate Financial Mathematics student with a passion for utilizing programming technologies to study, implement, and improve scalable quantitative models. 
 
+##
+Title | Description | Technologies
+
 
