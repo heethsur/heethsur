@@ -19,5 +19,5 @@ I am a graduate Financial Mathematics student with a passion for utilizing progr
 
 ##
 Title | Description | Technologies
-:-----------------------------:|:-----------------------------:|:-----------------------------:|
+---|---|---|
 
