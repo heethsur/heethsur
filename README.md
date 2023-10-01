@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Hey
+I am a graduate Financial Mathematics student with a passion for utilizing programming technologies to study, implement, and improve scalable quantitative models. 
+
+
