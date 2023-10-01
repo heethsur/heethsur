@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a graduate Financial Mathematics student with a passion for utilizing programming technologies to study, implement, and improve scalable quantitative models. 
 
-##
+## Project Summaries
 Title | Description | Technologies
 ---|---|---|
 Pairs trading using Copulas | Developed and tested a joint probabilistic model to identify short term divergences in correlated assets and implement an alpha-generating pairs trading strategy | Python (Jupyter)
